@@ -66,4 +66,4 @@ Baixe o arquivo `ProjetoBI.pbix` e abra no [Power BI Desktop](https://www.micros
 
 ---
 
-**Autor:** [Seu nome] · [LinkedIn](https://www.linkedin.com/in/seu-perfil)
+**Autor:** Junior Moraes · [LinkedIn](https://www.linkedin.com/in/jrmoraes97/)
